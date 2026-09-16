@@ -2,7 +2,9 @@
 
 ## Como rodar
 
-É preciso ter o Flutter, o Android SDK e o Node.js instalados. Abra o projeto no VS Code e inicie um emulador Android.
+Instale o Flutter, o Node.js e o **Android Studio 2024.2.1.12 para Windows**, indicado pelo professor (`android-studio-2024.2.1.12-windows.exe`). Na configuração do Android Studio, instale também o Android SDK e o Android Emulator.
+
+Abra o Android Studio e use o **Device Manager** para criar e iniciar um dispositivo virtual. Deixe o emulador aberto e abra a pasta do projeto no VS Code.
 
 No terminal, dentro da pasta do projeto, rode a API:
 
@@ -18,6 +20,8 @@ Deixe esse terminal aberto. Abra outro terminal na pasta principal do projeto e 
 flutter pub get
 flutter run
 ```
+
+Se aparecer uma lista de dispositivos, escolha o emulador do Android Studio.
 
 Na tela inicial, clique em **Cadastrar usuario**. Depois do cadastro, entre com o e-mail e a senha que você criou.
 
