@@ -26,7 +26,8 @@ class _LoginState extends State<Login> {
       if (!mounted) return;
       if (autorizado) {
         Navigator.pushReplacement(
-          context, MaterialPageRoute(builder: (context) => const Home()),
+          context,
+          MaterialPageRoute(builder: (context) => const Home()),
         );
       } else {
         aviso('E-mail ou senha incorretos.');
@@ -73,7 +74,7 @@ class _LoginState extends State<Login> {
           ),
           TextButton(
             onPressed: () => Navigator.push(context,
-              MaterialPageRoute(builder: (context) => const Cadastro())),
+                MaterialPageRoute(builder: (context) => const Cadastro())),
             child: const Text('Cadastrar usuario'),
           ),
         ],

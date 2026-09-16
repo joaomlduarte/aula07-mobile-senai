@@ -19,10 +19,12 @@ Future<bool> entrar(String email, String senha) async {
 }
 
 Future<bool> cadastrar(String nome, String email, String senha) async {
-  final resposta = await http.post(
-    Uri.parse('$apiUrl/cadastro-usuario'),
-    headers: {'Content-Type': 'application/json'},
-    body: jsonEncode({'nome': nome, 'email': email, 'senha': senha}),
-  ).timeout(const Duration(seconds: 10));
+  final resposta = await http
+      .post(
+        Uri.parse('$apiUrl/cadastro-usuario'),
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode({'nome': nome, 'email': email, 'senha': senha}),
+      )
+      .timeout(const Duration(seconds: 10));
   return resposta.statusCode == 201;
 }
