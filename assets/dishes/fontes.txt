@@ -1,0 +1,31 @@
+agua.jpg — Bottled water
+Pagina: https://en.wikipedia.org/wiki/Bottled_water
+Imagem: https://upload.wikimedia.org/wikipedia/commons/0/02/Stilles_Mineralwasser.jpg
+Autor: Walter J. Pilsak, Waldsassen, Germany
+Licenca: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+Arquivo: https://commons.wikimedia.org/wiki/File:Stilles_Mineralwasser.jpg
+Alteracao: conversao para JPEG.
+
+refrigerante.jpg — Cola
+Pagina: https://en.wikipedia.org/wiki/Cola
+Imagem: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glass_of_Cola.jpg/330px-Glass_of_Cola.jpg
+Autor: Cocktailmarler
+Licenca: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+Arquivo: https://commons.wikimedia.org/wiki/File:Glass_of_Cola.jpg
+Alteracao: conversao para JPEG.
+
+suco.jpg — Orange juice
+Pagina: https://en.wikipedia.org/wiki/Orange_juice
+Imagem: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Orangejuice.jpg/330px-Orangejuice.jpg
+Autor: rawpixel.com
+Licenca: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Arquivo: https://commons.wikimedia.org/wiki/File:Orangejuice.jpg
+Alteracao: conversao para JPEG.
+
+cafe.jpg — Coffee
+Pagina: https://en.wikipedia.org/wiki/Coffee
+Imagem: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/330px-Latte_and_dark_coffee.jpg
+Autor: Bex Walton
+Licenca: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+Arquivo: https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg
+Alteracao: conversao para JPEG.
